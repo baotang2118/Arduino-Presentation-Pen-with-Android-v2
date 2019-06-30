@@ -4,7 +4,7 @@ Hi! The presentation pen on online marketplaces are so expensive. Did you think 
 
 Take a look at my post, Thank you.
 
-https://baotden.wordpress.com/2019/01/23/turn-your-phone-into-presentation-pen-with-arduino/
+https://baotdvi.wordpress.com/2019/06/30/turn-your-phone-into-presentation-pen-with-arduino-v2/
 
 Just download and open project by android studio, build it and load it into your phone. Do the same for arduino code.
 
